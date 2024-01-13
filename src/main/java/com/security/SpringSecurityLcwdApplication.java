@@ -8,6 +8,7 @@ public class SpringSecurityLcwdApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityLcwdApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
